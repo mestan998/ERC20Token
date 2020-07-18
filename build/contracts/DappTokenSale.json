@@ -4423,12 +4423,12 @@
         }
       },
       "links": {},
-      "address": "0x77069b1d6f6718358B6bDA76DCe6Bf749D478179",
-      "transactionHash": "0xb759e7de7e4a21d9a519a7834689c3b96b05181364ebd78e38658009d24ceaed"
+      "address": "0xb47e9A3A8163915fe5594823b7771eA2B7F868a7",
+      "transactionHash": "0x47dfbe99a5bd1d66746ef0c2098e19e89eb1d92a5cb15562acc4698f7b52c4f2"
     }
   },
   "schemaVersion": "3.2.0",
-  "updatedAt": "2020-07-13T16:16:10.273Z",
+  "updatedAt": "2020-07-18T12:09:16.877Z",
   "networkType": "ethereum",
   "devdoc": {
     "methods": {}
